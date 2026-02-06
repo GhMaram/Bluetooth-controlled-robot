@@ -95,6 +95,6 @@ Through this project, the following skills were developed:
 
 ## Author
 
-## Maram Ghribi
+Maram Ghribi
 
 This project reflects a practical and scalable approach to **Bluetooth-based robotic control using STM32**, suitable for academic projects and embedded systems portfolios.
