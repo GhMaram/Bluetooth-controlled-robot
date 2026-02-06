@@ -90,4 +90,9 @@ Through this project, the following skills were developed:
 * Sensor interfacing (ADC & I2C)
 * Interrupt-driven system design
 * Integration of hardware and software into a complete embedded system
+
+---
+
+## Author
+Maram Ghribi
 This project reflects a practical and scalable approach to **Bluetooth-based robotic control using STM32**, suitable for academic projects and embedded systems portfolios.
